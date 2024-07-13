@@ -9,5 +9,4 @@
 
   ![image](https://github.com/user-attachments/assets/5a9c1494-d424-4402-9d5d-e69462ce43c4)
 
-
 check this out ==> https://var2299.github.io/Advanced-todo-app/
